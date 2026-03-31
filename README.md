@@ -5,6 +5,12 @@ This project focuses on performing a comprehensive security assessment and vulne
 
 ---
 
+## 📌 Internship Context
+
+This task was completed as a part of my Vulnerability Assessment and Penetration Testing (VAPT) Internship at Cyart Technologies in February 2026.
+
+---
+
 ## 🎯 Objective
 - To understand the fundamentals of security assessment
 - To identify vulnerabilities using open-source tools
